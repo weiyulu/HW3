@@ -1,0 +1,50 @@
+table {
+    background-color: blanchedalmond;
+    font-family: 微軟正黑體, 蘋果儷中黑;
+    text-align: C;
+}
+
+td {
+    width: 90px;
+}
+
+td[colspan="7"] {
+    line-height: 40px;
+}
+
+td {
+    width: 350px;
+    height: 500x;
+}
+
+.ball {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background: gold;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: sans-serif;
+    width: 80px;
+}
+
+.sball {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background: red;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: white;
+}
+
+.blank {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+}
+
